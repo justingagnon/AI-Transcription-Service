@@ -18,5 +18,5 @@ This is a proof-of-concept solution for transcribing audio files and identifying
 
 ## Test Examples
 To demonstrate the system's performance, I have included an `examples/` directory containing two audio samples and their corresponding JSON outputs:
-- **Example 1:** A meeting scenario demonstrating multi-speaker diarization.
-- **Example 2:** A short interview segment showing timestamp accuracy.
+- **Example 1:** A short voice segment reciting a poem showing timestamp accuracy.
+- **Example 2:** A longer audio file capturing a business meeting with several people.
