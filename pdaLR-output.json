@@ -1,0 +1,699 @@
+{
+    "metadata": {
+        "model": "base",
+        "device": "cuda",
+        "language": "unknown"
+    },
+    "segments": [
+        {
+            "start": 6.983,
+            "end": 9.004,
+            "text": " that has all of these different facets that we live here.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 9.064,
+            "end": 19.049,
+            "text": "It won't happen for people to be using these all sorts of issues about keeping people in safe or else falling in the ground.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 19.069,
+            "end": 20.37,
+            "text": "That may be we should try to bring people here.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 20.39,
+            "end": 23.792,
+            "text": "I think the first priority should be to try to get people to come here.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 24.472,
+            "end": 28.814,
+            "text": "We're set up for it.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 28.834,
+            "end": 30.175,
+            "text": "The room is really under use.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 30.195,
+            "end": 31.796,
+            "text": "I thought the free lunch idea was a great idea.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 32.016,
+            "end": 33.937,
+            "text": "I think we can get people to come here",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 34.24,
+            "end": 43.568,
+            "text": " But the issue is, you definitely want to make sure that the kind of group that you're getting is the right group so you don't waste your time in the overhead group.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 43.588,
+            "end": 43.909,
+            "text": "No crutch.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 43.989,
+            "end": 45.11,
+            "text": "Well, we're taking a lot of time.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 45.17,
+            "end": 46.051,
+            "text": "And afterwards, right.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 46.251,
+            "end": 47.612,
+            "text": "And they have to do their digits.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 47.632,
+            "end": 49.113,
+            "text": "They have to do their digits.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 49.133,
+            "end": 50.254,
+            "text": "They don't get their food.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 50.274,
+            "end": 55.9,
+            "text": "I spoke to some people up at Huss Business School who volunteered, should I pursue that?",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 55.92,
+            "end": 56.36,
+            "text": "Oh, definitely.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 58.151,
+            "end": 58.512,
+            "text": " Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 58.552,
+            "end": 61.994,
+            "text": "So they originally, they decided not to go into speech.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 62.454,
+            "end": 69.199,
+            "text": "So I'm not sure whether they'll still be so willing to volunteer, but all of a sudden, I'll say there's no such thing.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 69.259,
+            "end": 75.984,
+            "text": "I'd love to hear people that are not linguists or engineers.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 76.004,
+            "end": 76.625,
+            "text": "These are both weird.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 76.645,
+            "end": 77.866,
+            "text": "Me and Ryder are sampling.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 77.986,
+            "end": 82.569,
+            "text": "The problem with engineers is beeeeee.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 87.99,
+            "end": 88.371,
+            "text": " Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 88.391,
+            "end": 88.531,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 88.591,
+            "end": 88.851,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 88.971,
+            "end": 89.131,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 89.171,
+            "end": 89.271,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 89.311,
+            "end": 89.471,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 89.491,
+            "end": 89.671,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 89.691,
+            "end": 89.791,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 89.932,
+            "end": 90.172,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 90.212,
+            "end": 90.352,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 90.392,
+            "end": 90.592,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 90.632,
+            "end": 90.812,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 90.872,
+            "end": 91.152,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 91.192,
+            "end": 91.472,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 91.512,
+            "end": 91.673,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 91.693,
+            "end": 91.793,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 91.853,
+            "end": 92.073,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 92.453,
+            "end": 92.653,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 92.693,
+            "end": 92.913,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 93.053,
+            "end": 93.434,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 93.714,
+            "end": 94.014,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 94.054,
+            "end": 94.234,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 94.254,
+            "end": 94.414,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 94.434,
+            "end": 94.614,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 94.734,
+            "end": 94.914,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 95.275,
+            "end": 95.495,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 95.855,
+            "end": 95.975,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 95.995,
+            "end": 96.135,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 96.155,
+            "end": 96.335,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 96.355,
+            "end": 96.555,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 96.595,
+            "end": 96.816,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 97.016,
+            "end": 97.176,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 97.196,
+            "end": 97.476,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 97.556,
+            "end": 97.736,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 97.796,
+            "end": 98.076,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 98.096,
+            "end": 98.277,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 98.297,
+            "end": 98.437,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 98.457,
+            "end": 98.597,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 98.617,
+            "end": 98.717,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 98.757,
+            "end": 99.017,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 99.077,
+            "end": 99.297,
+            "text": "Yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 116.323,
+            "end": 117.884,
+            "text": " But it also builds up towards the goal.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 118.004,
+            "end": 120.425,
+            "text": "You're going to get this, isn't it neat?",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 120.505,
+            "end": 124.686,
+            "text": "Then you're going to go in with it.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 125.106,
+            "end": 127.827,
+            "text": "It's actually pretty useless.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 128.247,
+            "end": 133.929,
+            "text": "But you'll appreciate where it's useful and where it's useless, and then we're going to lose this technology.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 134.61,
+            "end": 136.61,
+            "text": "I think that's a great idea, actually.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 136.63,
+            "end": 139.612,
+            "text": "What if you could tell them that you're giving them the transcripts?",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 140.732,
+            "end": 140.952,
+            "text": "Oh, yeah.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 141.612,
+            "end": 143.373,
+            "text": "I mean, anyone can have the transcripts.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 144.338,
+            "end": 151.883,
+            "text": " I have to raise a little easy to say concern about during giving them the CD immediately because of these issues of, you know, this kind of stuff, maybe, you know.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 152.003,
+            "end": 155.205,
+            "text": "Good point.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 155.225,
+            "end": 156.166,
+            "text": "That's a very good question.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 156.206,
+            "end": 161.53,
+            "text": "And after it's been cleared with the transcript stage, and then they give a CD, but just not the same day.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 161.55,
+            "end": 165.172,
+            "text": "It should be the same CD room that we distribute publicly, right?",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 165.372,
+            "end": 166.673,
+            "text": "Otherwise, they're not allowed to.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 166.693,
+            "end": 167.034,
+            "text": "There we go.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 167.054,
+            "end": 168.014,
+            "text": "Or like that's an output.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 168.034,
+            "end": 168.735,
+            "text": "So after the",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 172.986,
+            "end": 176.869,
+            "text": " Yeah, it's right to say, yeah, I got the CD and you're on her, I think.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 176.929,
+            "end": 178.05,
+            "text": "That's a good point.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 178.13,
+            "end": 183.374,
+            "text": "Yeah, so that's, yes, I'll start with that one.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 183.414,
+            "end": 187.778,
+            "text": "Sorry, I have to leave.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 187.898,
+            "end": 195.344,
+            "text": "That's been a full time.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 196.665,
+            "end": 199.187,
+            "text": "Okay, see you.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 199.567,
+            "end": 200.828,
+            "text": "So that was that topic.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 203.655,
+            "end": 208.956,
+            "text": " I guess another topic would be where we will discuss this question.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 209.957,
+            "end": 215.438,
+            "text": "We are slowly, slowly getting to the point where we have enough room to record meetings.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 216.318,
+            "end": 220.219,
+            "text": "So I did a bunch of archiving and still doing a bunch of archiving.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 220.399,
+            "end": 230.021,
+            "text": "I'm in the midst of doing the P files from broadcast news and it took 11 hours to copy it and it'll take another one.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 230.041,
+            "end": 231.222,
+            "text": "What did you do to hit the clone?",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 232.302,
+            "end": 232.902,
+            "text": "Well, it's happened.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 235.028,
+            "end": 236.449,
+            "text": " but it's a lot of data.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 236.749,
+            "end": 239.711,
+            "text": "It's coming from one place to another.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 239.731,
+            "end": 243.312,
+            "text": "I did not want to take so I'm archiving it and then I'm going to delete files.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 243.592,
+            "end": 249.335,
+            "text": "So that would give us 10 gigabytes of free space.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 249.555,
+            "end": 257.418,
+            "text": "And so that will be done in about two hours and so at that point we'll be able to record five more meetings.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 257.938,
+            "end": 261.78,
+            "text": "One thing, the good news about that is that once it's archived it's pretty quick to get back.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 263.071,
+            "end": 265.313,
+            "text": " The other direction is fast, but the structure is really smooth.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 265.734,
+            "end": 267.695,
+            "text": "Well, especially because I'm generating a plan also.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 267.715,
+            "end": 269.978,
+            "text": "Yeah, okay.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 269.998,
+            "end": 270.338,
+            "text": "Generates a plan.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 270.918,
+            "end": 271.419,
+            "text": "Two copies.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 271.879,
+            "end": 272.96,
+            "text": "One off-site, one on-site.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 274.482,
+            "end": 276.464,
+            "text": "Now, what is the plan to...",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 278.535,
+            "end": 279.355,
+            "text": " stuff will be saved.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 279.375,
+            "end": 280.636,
+            "text": "It's just that you're relocating it.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 280.656,
+            "end": 282.256,
+            "text": "I mean, so we're going to get more to space.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 283.017,
+            "end": 288.999,
+            "text": "No, the these are the key files from broadcast news, which are regenerateable, regenerateable.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 289.819,
+            "end": 295.501,
+            "text": "If we really need to, but we had a lot of them and for the full 140 hour sets.",
+            "speaker": "Unknown"
+        },
+        {
+            "start": 296.162,
+            "end": 298.983,
+            "text": "And so they were two gigabytes per file and we had",
+            "speaker": "Unknown"
+        }
+    ]
+}
